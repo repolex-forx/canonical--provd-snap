@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "provd-snap",
+  "versions": [
+    {
+      "commit": "9758ea877f830144e8394733359f8893a72f38b5",
+      "tag": "desktop-26-latest",
+      "parsed_at": "2026-11-08T19:10:04.252318+00:00"
+    }
+  ]
+}

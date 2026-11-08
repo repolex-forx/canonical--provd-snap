@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "provd-snap",
+  "versions": [
+    {
+      "commit": "9758ea877f830144e8394733359f8893a72f38b5",
+      "parsed_at": "2026-11-08T19:07:25.578694+00:00",
+      "tag": "desktop-26-latest",
+      "filetree": "filetree/9758ea877f830144e8394733359f8893a72f38b5.nq.gz",
+      "blobs": [
+        "blob/ea8b3d611c694889908c3cff25977c09b7f87118.nq.gz",
+        "blob/9ed6d53a828b3aaefeb9f3d56d3d7a2b628250bf.nq.gz",
+        "blob/2b60a26f73e4587797cdbc05d91740736d4197c9.nq.gz",
+        "blob/f8720a0335bb0a9d1032fe093a1c4f6735df787b.nq.gz",
+        "blob/3477ee9a5b7da4f8a64af7d5a910ddb8ea565bc8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
